@@ -55,10 +55,15 @@ Correlation analysis between runtime and gross revenue.
 Correlation between runtime and gross revenue.
 Correlation between score and runtime using Hexbin Plot.
 Correlation between score and budget.
-6. Insights
+
+#6. Insights
 Factors contributing to the success of a movie.
+
 Profit trends by decades.
+
 Performance of Animation, Comedy, and Action genres.
+
 Notable disparity between budget and gross revenue growth.
+
 Investment opportunities in countries like New Zealand, United States, China, Germany, France, and the United Kingdom.
 
