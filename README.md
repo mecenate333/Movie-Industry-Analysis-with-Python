@@ -27,12 +27,12 @@ runtime: Runtime of the movie (in minutes)
 
 
 - [Overview](#overview)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Visualization](#data-visualization)
-- [Key Questions](#key-questions)
-- [Correlation Analysis](#correlation-analysis)
-- [Insights](#insights)
+- [1. Data Cleaning](#data-cleaning)
+- [2. Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [3. Data Visualization](#data-visualization)
+- [4. Questions](#key-questions)
+- [5. Correlation Analysis](#correlation-analysis)
+- [6. Insights](#insights)
 
 
 
