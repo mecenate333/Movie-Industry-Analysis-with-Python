@@ -27,25 +27,18 @@ runtime: Runtime of the movie (in minutes)
 
 
 ## Table of Contents
-
-- [Data Cleaning](#1. Data Cleaning)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Data Cleaning](#data-cleaning)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 [Overview](#overview)
+
 [1. Data Cleaning](#data-cleaning)
+
 [2. Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+
 [3. Data Visualization](#data-visualization)
+
 [4. Key Questions](#key-questions)
+
 [5. Correlation Analysis](#correlation-analysis)
+
 [Insights](#insights)
 
 
