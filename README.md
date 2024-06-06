@@ -24,6 +24,24 @@ gross: Gross earnings of the movie (in USD)
 company: Production company
 runtime: Runtime of the movie (in minutes)
 
+
+
+## Table of Contents
+
+- [Data Cleaning](#Data Cleaning)
+- [Usage](#usage)
+- [Data Sources](#data-sources)
+- [Data Cleaning](#data-cleaning)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Model Training](#model-training)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
+
 #Analysis
 
 #1. Data Cleaning
