@@ -1,6 +1,16 @@
 # Movie Industry Analysis (1980-2019)
 40 years long movie datataset analysis
 
+## Table of Contents
+- [Overview](#overview)
+- [1. Data Cleaning](#data-cleaning)
+- [2. Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [3. Data Visualization](#data-visualization)
+- [4. Questions](#key-questions)
+- [5. Correlation Analysis](#correlation-analysis)
+- [6. Insights](#insights)
+
+
 
 #Overview
 This Jupyter notebook project analyzes the movie industry over a span of 40 years, from 1980 to 2020, using a dataset comprising approximately 8000 records. The dataset includes information such as movie name, rating, genre, year of release, release date, IMDB score, number of votes, director, writer, star cast, country of production, budget, gross earnings, production company, and runtime.
@@ -26,36 +36,8 @@ runtime: Runtime of the movie (in minutes)
 
 
 
-- [Overview](#overview)
-- [1. Data Cleaning](#data-cleaning)
-- [2. Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [3. Data Visualization](#data-visualization)
-- [4. Questions](#key-questions)
-- [5. Correlation Analysis](#correlation-analysis)
-- [6. Insights](#insights)
 
 
-
-## Table of Contents
-[Overview](#overview)
-
-[1. Data Cleaning](#data-cleaning)
-
-[2. Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-
-[3. Data Visualization](#data-visualization)
-
-[4. Key Questions](#key-questions)
-
-[5. Correlation Analysis](#correlation-analysis)
-
-[6. Insights](#insights)
-
-
-
-
-
-#Analysis
 
 #1. Data Cleaning
 Percentage of missing data and handling missing values.
