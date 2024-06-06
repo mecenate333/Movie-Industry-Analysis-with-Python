@@ -13,7 +13,7 @@
 
   
 ## Overview
-This Jupyter notebook project analyzes the movie industry over a span of 40 years, from 1980 to 2020, using a dataset comprising approximately 8000 records. The dataset includes information such as movie name, rating, genre, year of release, release date, IMDB score, number of votes, director, writer, star cast, country of production, budget, gross earnings, production company, and runtime.
+This Jupyter notebook project analyzes the movie industry over a span of 40 years, from 1980 to 2019, using a dataset comprising approximately 8000 records. The dataset includes information such as movie name, rating, genre, year of release, release date, IMDB score, number of votes, director, writer, star cast, country of production, budget, gross earnings, production company, and runtime.
 
 ## Dataset Description
 The dataset consists of the following columns:
