@@ -48,8 +48,9 @@ Dealing with duplicates.
 
 Imputation of missing values.
 
-
 ## 2. Exploratory Data Analysis (EDA)
+
+Distribution of movies by genre and year.
 
 Distribution of movies by IMDB score.
 
