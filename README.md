@@ -39,7 +39,7 @@ runtime: Runtime of the movie (in minutes)
 
 [5. Correlation Analysis](#correlation-analysis)
 
-[Insights](#insights)
+[6. Insights](#insights)
 
 
 
@@ -49,35 +49,58 @@ runtime: Runtime of the movie (in minutes)
 
 #1. Data Cleaning
 Percentage of missing data and handling missing values.
+
 Removal of irrelevant columns.
+
 Dealing with duplicates.
+
 Imputation of missing values.
 
+
 #2. Exploratory Data Analysis (EDA)
+
 Distribution of movies by IMDB score.
+
 Average score of genres and countries.
+
 Correlation between budget and gross revenue.
+
 Identification of top directors based on average gross revenue.
 
+
 #3. Data Visualization
+
 Visualization of top-rated movies.
+
 Distribution of genres across the dataset.
+
 Analysis of director scores per decade.
+
 Trend analysis of average film gross revenue per decade.
+
 Scatter plot analysis of genres with at least 300 movies.
 
+
 #4. Questions
+
 Distribution of average scores and gross revenue across different genres.
+
 Analysis of scores across top 10 countries.
+
 Examination of scores and gross revenue across different stars.
-Correlation analysis between runtime and gross revenue.
+
 
 #5. Correlation Analysis
+
 Correlation between runtime and gross revenue.
+
 Correlation between score and runtime using Hexbin Plot.
+
 Correlation between score and budget.
 
+
 #6. Insights
+
 Factors contributing to the success of a movie.
 
 Profit trends by decades.
