@@ -1,5 +1,5 @@
 # Movie Industry Analysis (1980-2019)
-40 years long movie datataset analysis
+40 years long movie analysis
 
 ## Table of Contents
 - [Overview](#overview)
