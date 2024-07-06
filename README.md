@@ -1,5 +1,5 @@
 # Movie Industry Analysis using Python
-40 years long movie analysis
+40 years long movie analysis with Pandas
 
 ## Table of Contents
 - [Overview](#overview)
