@@ -1,4 +1,4 @@
-# Movie Industry Analysis (1980-2019)
+# Movie Industry Analysis using Python
 40 years long movie analysis
 
 ## Table of Contents
